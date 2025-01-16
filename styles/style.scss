@@ -61,7 +61,7 @@ body {
 // ----------------------------------- HEADER -----------------------------------
 .header {
   background-color: var(--bg-color);
-  background-image: url('/image/img/3.heic');
+  background-image: url('./image/img/3.heic');
   // https://cdn.culture.ru/images/97f3ac6b-7f63-57c8-a128-351f224a35db
   background-position: center;
   background-repeat: no-repeat;
@@ -154,16 +154,16 @@ body {
       }
     }
     .first-tour {
-      background-image: url('/image/tours_cover/Date _with_the_peaks_of_Dagestan.jpg');
+      background-image: url('./image/tours_cover/Date _with_the_peaks_of_Dagestan.jpg');
     }
     .second-tour {
-      background-image: url('/image/tours_cover/Dagestan_something_new.jpg');
+      background-image: url('./image/tours_cover/Dagestan_something_new.jpg');
     }
     .third-tour {
-      background-image: url('/image/tours_cover/Reboot_in_the_land_of_mountains.jpg');
+      background-image: url('./image/tours_cover/Reboot_in_the_land_of_mountains.jpg');
     }
     .fourth-tour {
-      background-image: url('/image/tours_cover/Adult_camp.jpg');
+      background-image: url('./image/tours_cover/Adult_camp.jpg');
     }
     &__title {
       font-size: clamp(0.875rem, 0.409rem + 0.91vw, 1.5rem);
