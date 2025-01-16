@@ -1,5 +1,5 @@
 window.addEventListener('DOMContentLoaded', () => {
-  // ------------------------------------ program ------------------------------------
+  // ------------------------------------ TABS ------------------------------------
 
   const programs = document.querySelectorAll('.tours__program'),
     content = document.querySelectorAll('.tours__description'),
@@ -34,4 +34,5 @@ window.addEventListener('DOMContentLoaded', () => {
       });
     }
   });
+  // ------------------------------------ /TABS ------------------------------------
 });
