@@ -1,0 +1,52 @@
+                        <div  class="description__content">
+                            <h3 class="description__title title">День 4. Манящий Гамсутль</h3>
+                            <!-- <div class="description__imgs">
+                                <img src="https://cf.youtravel.me/tr:w-937.5/upload/tours/259/3rmvor8061hfrb2gjk0su38s53vwiwxv.jpg"
+                                    alt="" class="description__img">
+                                <img src="https://cf.youtravel.me/tr:w-937.5/upload/tours/aa3/6f29grt3p0xq5nidqqidkeeomuub0a1k.jpg"
+                                    alt="" class="description__img">
+                                <img src="https://cf.youtravel.me/tr:w-937.5/upload/tours/3c6/dc8jo449hn5v4n1hg5mmvn2pwbgephbr.jpg"
+                                    alt="" class="description__img">
+                            </div> -->
+                            <div class="description__info info">
+                                <p class="info__descr text">На старте дня, который пропитан историей и настроением
+                                    прошлого обязательно берем с собой в путь бутылочку воды, ведь нас ждет подъем к
+                                    дому последнего жителя села Гамсутль.</p>
+                                <ul class="info__list">А дальше:
+                                    <li class="info__item">Завтрак</li>
+                                    <li class="info__item">Чохские террасы</li>
+                                    <li class="info__item">Аул-призрак Гамустль</li>
+                                    <li class="info__item">Обед</li>
+                                    <li class="info__item">Салтинский подземный водопад</li>
+                                    <li class="info__item">Поляна Айвазовского</li>
+                                    <li class="info__item">Мастер-класс по приготовлению национальных блюд</li>
+                                    <li class="info__item">Прощальная вечеринка</li>
+                                    <li class="info__item">Ужин</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="description__content">
+                            <h3 class="description__title title">День 5. По дороге к дому</h3>
+                            <!-- <div class="description__imgs">
+                                <img src="https://cf.youtravel.me/tr:w-937.5/upload/tours/563/4jxps8wz8tiq6q6mkzitfbc1004oqd0v.jpg"
+                                    alt="" class="description__img">
+                                <img src="https://cf.youtravel.me/tr:w-937.5/upload/tours/461/tfgkj3srpjlbv2yp8ehcvr4oejoactoo.jpg"
+                                    alt="" class="description__img">
+                                <img src="https://cf.youtravel.me/tr:w-937.5/upload/tours/fec/y6l0bn954ie21nskldqg7d74dh5s7b8d.jpg"
+                                    alt="" class="description__img">
+                            </div> -->
+                            <div class="description__info info">
+                                <p class="info__descr text">Чтобы не грустить на прощании с горами, мы подготовили
+                                    для вас очень насыщенный и ярки день! Собираем чемоданы и встречаемся у наши машин.
+                                </p>
+                                <ul class="info__list">А дальше:
+                                    <li class="info__item">Завтрак</li>
+                                    <li class="info__item">Ирганайское водохранилище и воздушные качели</li>
+                                    <li class="info__item">Самый длинный автомобильный тоннель</li>
+                                    <li class="info__item">Катание на катерах</li>
+                                    <li class="info__item">Смотровая площадка на Сулакский каньон</li>
+                                    <li class="info__item">Обед на форелевом хозяйстве</li>
+                                    <li class="info__item">Возвращение в Махачкалу</li>
+                                </ul>
+                            </div>
+                        </div>
