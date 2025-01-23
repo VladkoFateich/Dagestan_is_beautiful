@@ -3,7 +3,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
   const programs = document.querySelectorAll('.tours__program'),
     content = document.querySelectorAll('.tours__description'),
-    tours = document.querySelector('.tours__programs');
+    tour = document.querySelector('.tours__programs');
 
   function hideContent() {
     content.forEach((item) => {
@@ -22,9 +22,10 @@ window.addEventListener('DOMContentLoaded', () => {
   hideContent();
   showContent();
 
-  tours.addEventListener('click', (e) => {
+  tour.addEventListener('click', showTourDescr);
+
+  function showTourDescr(e) {
     const target = e.target;
-    console.log(target.classList);
     if (target && target.classList.contains('tours__program')) {
       programs.forEach((item, i) => {
         if (target === item) {
@@ -33,6 +34,7 @@ window.addEventListener('DOMContentLoaded', () => {
         }
       });
     }
-  });
+  }
+
   // ------------------------------------ /TABS ------------------------------------
 });
