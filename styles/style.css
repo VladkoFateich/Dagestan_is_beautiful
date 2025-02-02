@@ -294,13 +294,34 @@ body {
   text-transform: uppercase;
   margin-bottom: 15px;
 }
+.main .tours__days {
+  grid-column: 1/-1;
+}
+.main .tours__days .days__items {
+  justify-content: space-evenly;
+}
+.main .tours__days .days__item {
+  width: 120px;
+  text-align: center;
+  padding: 7px 0;
+  background-color: var(--accent-color3);
+  text-transform: uppercase;
+  font-family: "Dagestan Sans", sans-serif;
+  color: var(--bg-color);
+}
+.main .tours__days .days__item_active {
+  background-color: var(--accent-color2);
+}
 .main .tours__description {
   grid-column: 1/-1;
 }
 .main .tours__description .description__imgs {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   gap: 10px;
+}
+.main .tours__description .description__img {
+  border-radius: 35px 0 35px 0;
 }
 .main .guides__title {
   text-align: center;

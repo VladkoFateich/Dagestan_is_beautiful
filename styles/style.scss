@@ -176,13 +176,26 @@ body {
       margin-bottom: 15px;
     }
     &__days {
-      &__items {
-      }
-      &__item {
-      }
+      grid-column: 1/-1;
       .flex-box {
       }
       .days {
+        &__items {
+          justify-content: space-evenly;
+        }
+        &__item {
+          width: 120px;
+          text-align: center;
+          padding: 7px 0;
+          // border-radius: 15px;
+          background-color: var(--accent-color3);
+          text-transform: uppercase;
+          font-family: 'Dagestan Sans', sans-serif;
+          color: var(--bg-color);
+          &_active {
+            background-color: var(--accent-color2);
+          }
+        }
       }
     }
 
@@ -195,10 +208,11 @@ body {
         }
         &__imgs {
           display: grid;
-          grid-template-columns: repeat(3, 1fr);
+          grid-template-columns: repeat(6, 1fr);
           gap: 10px;
         }
         &__img {
+          border-radius: 35px 0 35px 0;
         }
         &__info {
         }
